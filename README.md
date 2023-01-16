@@ -43,7 +43,16 @@
 
 ## 使用说明
 
+1. 运行interface.py：实现对车牌进行检测与识别，获取车牌号
 
+2. 运行interface.py：运行停车场智能车牌识别系统，实现效果如下：
+![进场模拟1](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F1.png)
+![进场模拟2](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F2.png)
+![进场模拟3](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F3.png)
+![出场模拟1](readme_img/%E5%87%BA%E5%9C%BA%E6%A8%A1%E6%8B%9F1.png)
+![进场模拟2](readme_img/%E5%87%BA%E5%9C%BA%E6%A8%A1%E6%8B%9F2.png)
+![收入图](readme_img/%E6%94%B6%E5%85%A5%E5%9B%BE.png)
+![车流量分析](readme_img/%E8%BD%A6%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E5%9B%BE.png)
 ## 参与贡献
 
 
