@@ -22,7 +22,7 @@
 其余文件未标注的文件均为模型训练、检测的后台文件
 
 由于模型文件较大，剩余的两个doc和training文件就放在这里
-### [doc+training](http://)
+### [doc+training](https://pan.baidu.com/s/1FfQqaby-oXgcNK63kF3M1Q?pwd=gzma)
 
 代码架构目前还没完全优化，因此想要顺利运行就按如下图片所示进行运行
 
