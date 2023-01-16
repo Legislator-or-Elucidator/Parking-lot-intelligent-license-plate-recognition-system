@@ -1,37 +1,41 @@
 # 停车场智能车牌识别系统
 
+#### 以学习交流为目的，内附有代码注释，文档正处于逐步完善中...
+
+#### 本人目前正在学习阶段，代码及文档持续更新中，如有不足之处，敬请指出...
+
 #### 介绍
+
 对停车场智能车牌识别系统的设计以及进行实现
 
+这是一个基于spring boot + maven + opencv 实现的Demo教程项目
+
+贯穿样本处理、模型训练、图像处理、对象检测、对象识别等技术点
+
+java语言的深度学习项目，在整个开源社区来说都相对较少；拥有完整的训练、检测、识别过程的开源项目更是少之又少！！
+
 #### 软件架构
-软件架构说明
 
+代码架构说明
 
-#### 安装教程
+![代码架构说明](%E4%BB%A3%E7%A0%81%E6%96%87%E4%BB%B6%E5%A4%B9(1).png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+模块功能说明
+
+1、车牌识别模块    ——    Empty
+
+2、界面设计模块    ——    L
+
+#### 环境安装教程
+
+#### [车牌识别模块环境安装教程](http://)
+
+#### [Gpu加速安装教程](http://)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
 
 #### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
