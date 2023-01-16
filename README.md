@@ -1,8 +1,15 @@
 # 停车场智能车牌识别系统
 
-#### 以学习交流为目的，内附有代码注释，文档正处于逐步完善中...
+#### 主要以记录项目、学习交流为目的，内附有代码注释，文档正处于逐步完善中...
 
 #### 本人目前正在学习阶段，代码及文档持续更新中，如有不足之处，敬请指出...
+
+#### 转发请注明出处，仅用于交流学习，不得用于商业用途；如有侵权，请联系本人...
+
+## 网上参考文档
+
+#### [智能停车场车牌识别系统（一）、（二）](https://blog.csdn.net/MNBVBM/article/details/108360138)
+#### [人工智能python3+tensorflow人脸识别_机器学习tensorflow object detection 实现人脸识别](https://blog.csdn.net/weixin_36068140/article/details/114482958)
 
 ## 介绍
 
@@ -14,11 +21,8 @@
 
 
 
-
-
 ## 软件架构
 ### 代码架构说明
-
 
 
 ### 模块功能说明
@@ -49,12 +53,19 @@
 1. 运行interface.py：实现对车牌进行检测与识别，获取车牌号
 
 2. 运行interface.py：运行停车场智能车牌识别系统，实现效果如下：
+
 ![进场模拟1](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F1.png)
+
 ![进场模拟2](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F2.png)
+
 ![进场模拟3](readme_img/%E8%BF%9B%E5%9C%BA%E6%A8%A1%E6%8B%9F3.png)
+
 ![出场模拟1](readme_img/%E5%87%BA%E5%9C%BA%E6%A8%A1%E6%8B%9F1.png)
+
 ![进场模拟2](readme_img/%E5%87%BA%E5%9C%BA%E6%A8%A1%E6%8B%9F2.png)
+
 ![收入图](readme_img/%E6%94%B6%E5%85%A5%E5%9B%BE.png)
+
 ![车流量分析](readme_img/%E8%BD%A6%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E5%9B%BE.png)
 ## 参与贡献
 
